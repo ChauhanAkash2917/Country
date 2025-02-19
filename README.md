@@ -1,5 +1,5 @@
 https://chauhanakash2917.github.io/Country/
-![Screenshot 2025-02-19 113732](https://github.com/user-attachments/assets/9519dbe0-cf48-4c61-b443-322fed8a08cf)
+
 
 🏆 **Objective**:
 To create a simple yet interactive webpage that presents country details and allows users to search for specific countries.
@@ -43,3 +43,5 @@ Users can search for countries by name using an input field. As they type, the c
 ✅ Country Details Page – Click on a country card to view more details
 ✅ Region Filtering – Allow users to filter countries by region
 
+
+![Screenshot 2025-02-19 113732](https://github.com/user-attachments/assets/9519dbe0-cf48-4c61-b443-322fed8a08cf)
